@@ -1,1 +1,1 @@
-# Machine Learning - Winter 2026
+# Cutting-Edge Applications in AI - Spring 2026
